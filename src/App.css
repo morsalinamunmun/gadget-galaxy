@@ -13,6 +13,8 @@
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
+  color: #888;
+  margin-top: auto;
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
